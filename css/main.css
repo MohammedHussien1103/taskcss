@@ -1,0 +1,15 @@
+div {
+    position: relative;
+    width: 300px;
+    height: 60px;
+    background-color: #eee;
+    margin: 10px;
+    text-align: center;
+    padding-top: 38px;
+    left: 50%;
+
+}
+
+div:empty {
+    background-color: red;
+}
